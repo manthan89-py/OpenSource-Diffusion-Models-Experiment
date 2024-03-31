@@ -1,0 +1,112 @@
+{
+    "Stylish young man in casual attire against urban backdrop: jeans, tee, denim jacket.": {
+        "runwayml/stable-diffusion-v1-5": {
+            "execution_time": "1.07 Seconds",
+            "memory_usage": "31.46 MB",
+            "cpu_usage": "38.70 %"
+        },
+        "stabilityai/stable-diffusion-xl-base-1.0": {
+            "execution_time": "1.03 Seconds",
+            "memory_usage": "15.22 MB",
+            "cpu_usage": "28.40 %"
+        },
+        "ehristoforu/dalle-3-xl-v2": {
+            "execution_time": "1.14 Seconds",
+            "memory_usage": "20.30 MB",
+            "cpu_usage": "75.55 %"
+        },
+        "prompthero/openjourney": {
+            "execution_time": "1.01 Seconds",
+            "memory_usage": "-15.85 MB",
+            "cpu_usage": "28.85 %"
+        }
+    },
+    "Confident mid-20s woman in chic floral dress in sunlit garden.": {
+        "runwayml/stable-diffusion-v1-5": {
+            "execution_time": "2.67 Seconds",
+            "memory_usage": "79.22 MB",
+            "cpu_usage": "76.30 %"
+        },
+        "stabilityai/stable-diffusion-xl-base-1.0": {
+            "execution_time": "2.80 Seconds",
+            "memory_usage": "24.73 MB",
+            "cpu_usage": "49.30 %"
+        },
+        "ehristoforu/dalle-3-xl-v2": {
+            "execution_time": "1.13 Seconds",
+            "memory_usage": "0.00 MB",
+            "cpu_usage": "29.35 %"
+        },
+        "prompthero/openjourney": {
+            "execution_time": "1.08 Seconds",
+            "memory_usage": "-0.12 MB",
+            "cpu_usage": "30.15 %"
+        }
+    },
+    "Cheerful 8-year-old boy in colorful hoodie, denim jeans, sneakers at playground.": {
+        "runwayml/stable-diffusion-v1-5": {
+            "execution_time": "1.04 Seconds",
+            "memory_usage": "0.00 MB",
+            "cpu_usage": "28.65 %"
+        },
+        "stabilityai/stable-diffusion-xl-base-1.0": {
+            "execution_time": "1.51 Seconds",
+            "memory_usage": "0.25 MB",
+            "cpu_usage": "46.50 %"
+        },
+        "ehristoforu/dalle-3-xl-v2": {
+            "execution_time": "1.47 Seconds",
+            "memory_usage": "0.09 MB",
+            "cpu_usage": "94.05 %"
+        },
+        "prompthero/openjourney": {
+            "execution_time": "0.98 Seconds",
+            "memory_usage": "0.53 MB",
+            "cpu_usage": "29.70 %"
+        }
+    },
+    "Create a vivid image of a charming, playful 6-year-old girl wearing a patterned dress, leggings, and ballet flats, inside a whimsically decorated bedroom.": {
+        "runwayml/stable-diffusion-v1-5": {
+            "execution_time": "1.03 Seconds",
+            "memory_usage": "0.00 MB",
+            "cpu_usage": "29.60 %"
+        },
+        "stabilityai/stable-diffusion-xl-base-1.0": {
+            "execution_time": "1.01 Seconds",
+            "memory_usage": "-0.06 MB",
+            "cpu_usage": "79.55 %"
+        },
+        "ehristoforu/dalle-3-xl-v2": {
+            "execution_time": "1.10 Seconds",
+            "memory_usage": "-0.25 MB",
+            "cpu_usage": "28.10 %"
+        },
+        "prompthero/openjourney": {
+            "execution_time": "1.51 Seconds",
+            "memory_usage": "-3.69 MB",
+            "cpu_usage": "99.35 %"
+        }
+    },
+    "Two 10-year-olds in coordinated hoodies, track pants, sneakers laughing in park.": {
+        "runwayml/stable-diffusion-v1-5": {
+            "execution_time": "0.98 Seconds",
+            "memory_usage": "0.25 MB",
+            "cpu_usage": "31.85 %"
+        },
+        "stabilityai/stable-diffusion-xl-base-1.0": {
+            "execution_time": "1.12 Seconds",
+            "memory_usage": "-0.12 MB",
+            "cpu_usage": "30.05 %"
+        },
+        "ehristoforu/dalle-3-xl-v2": {
+            "execution_time": "1.09 Seconds",
+            "memory_usage": "-0.12 MB",
+            "cpu_usage": "29.05 %"
+        },
+        "prompthero/openjourney": {
+            "execution_time": "1.30 Seconds",
+            "memory_usage": "4.68 MB",
+            "cpu_usage": "40.35 %"
+        }
+    }
+}
